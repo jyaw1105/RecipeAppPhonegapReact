@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.react.phonegap.app.recipe"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.react.phonegap.app.recipe"
+    }
+  },
+  "dependent_plugins": {}
+}
